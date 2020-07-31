@@ -1,6 +1,6 @@
 {
     "name": "pip-clients-paymentmethods-node",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./obj/src/index.js",
     "typings": "./obj/src/index.d.ts",
     "scripts": {

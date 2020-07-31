@@ -2,6 +2,7 @@ export { IPaymentMethodsClientV1 } from './IPaymentMethodsClientV1';
 export { PaymentMethodsHttpClientV1 } from './PaymentMethodsHttpClientV1';
 export { PaymentMethodsDirectClientV1 } from './PaymentMethodsDirectClientV1';
 export { PaymentMethodsNullClientV1 } from './PaymentMethodsNullClientV1';
+export { PaymentMethodsMemoryClientV1 } from './PaymentMethodsMemoryClientV1';
 export { PaymentMethodTypeV1 } from './PaymentMethodTypeV1';
 export { PaymentMethodV1 } from './PaymentMethodV1';
 export { PaymentMethodV1Schema } from './PaymentMethodV1Schema';
